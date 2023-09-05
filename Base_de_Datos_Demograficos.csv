@@ -1,0 +1,97 @@
+ID,Treatment,sucessfull,age,gender,career,semester,last_semester,social,dad_career,mom_career,earns,_ERO,_TO,_CONS,_EST,_PA,¿Le_parecio_muy_dificil_responder_las_preguntas?
+CC1,0,2,21,Masculino,Economia,8,1,Estrato 4,Titulo Universitario ,Bachillerato,Entre 100.000 a 300.000,Minero,Todo,Consola,Estados,Paso,3
+CC2,0,3,24,Masculino,Economia,9,1,Estrato 4,Maestria,Maestria,Mayor a 1.300.001,Esfero ,Todo,CONSEJO,ESTRIBO,Para,4
+CC3,0,2,22,Femenino,Economia,8,1,Estrato 3,Tecnico o Tecnologo ,Tecnico o Tecnologo ,Entre 100.000 a 300.000,Todero,Toro,Consejo,Estudio,Pala,3
+CC4,0,1,22,Femenino,Administracion,8,1,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Salero,Toso,Consejo,Estudio,Pala,0
+CC5,0,1,21,Femenino,Administracion,8,1,Estrato 5,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Esfero ,Tono,Consome,Estados,Papá,2
+CC6,0,1,24,Masculino,Administracion,8,1,Estrato 4,Especializacion,Titulo Universitario ,Entre 100.000 a 300.000,Esfero ,Todo,CONSEJO,Estaban,PATA,6
+CC7,0,2,18,Femenino,Administracion,1,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Todero,Toca,Consigo,Estolas,Palo,4
+CC8,0,2,19,Femenino,Economia,7,1,Estrato 4,Maestria,Especializacion,Menor a 99.999,Salero,Todo,Consejo,Estudio,PAIS,4
+CC9,0,2,21,Masculino,Economia,8,1,Estrato 3,Titulo Universitario ,Bachillerato,Entre 100.000 a 300.000,Tetero,Todo,Consola,Estacas,Palo,5
+CC10,0,2,18,Femenino,Economia,1,0,Estrato 5,Maestria,Maestria,Entre 100.000 a 300.000,Tetero,TORO,CONSOLA,ESTADIO,para,3
+CC11,0,2,23,Masculino,Economia,8,1,Estrato 2,Titulo Universitario ,Tecnico o Tecnologo ,Entre 100.000 a 300.000,Minero,Todo,Consigo,Estafas,Paño,2
+CC12,0,1,21,Femenino,Administracion,10,1,Estrato 2,Especializacion,Titulo Universitario ,Menor a 99.999,Ropero,Topo,Consejo,Estudio,PATO,5
+CC13,0,3,20,Femenino,Administracion,8,1,Estrato 6,Maestria,Especializacion,Mayor a 1.300.001,Tolero,Tono,Consejo,Estudio,Pato,5
+CC14,0,3,17,Femenino,Administracion,2,0,Estrato 5,Especializacion,Titulo Universitario ,Entre 100.000 a 300.000,Esfero ,Tono,Consola,Estanco,Paño,6
+CC15,0,3,19,Femenino,Administracion,7,1,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 500.001 a 800.000,Tetero,Tono,Constar,Estadio,Paro,0
+CC16,0,2,22,Masculino,Economia,10,1,Estrato 3,Bachillerato,Bachillerato,Menor a 99.999,Mulero,Toco,Consigo,Estallo,Paso,3
+CC17,0,2,17,Masculino,Administracion,1,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 800.001 a 1.000.000,Casero,Tono,Consigo,Estatua ,Papá ,5
+CC18,0,4,17,Femenino,Administracion,1,0,Estrato 5,Especializacion,Titulo Universitario ,Entre 300.001 a 500.000,Armero,Toma,Consumo,Estadio ,Pato,1
+CC19,0,4,16,Femenino,Administracion,1,0,Estrato 3,Especializacion,Maestria,Entre 300.001 a 500.000,Esfero ,Toro,Consejo,Estilos,Pato,0
+CC20,0,4,17,Masculino,Administracion,1,0,Estrato 4,Titulo Universitario ,Maestria,Entre 500.001 a 800.000,SALERO,TORO,CONSUME,ESTADOS,PALA,0
+CC21,0,4,18,Femenino,Contabilidad,1,0,Estrato 3,Bachillerato,Bachillerato,Entre 300.001 a 500.000,Mesero,Todo,Consola,Establo,PALA,0
+CC22,0,1,18,Femenino,Administracion,1,0,Estrato 5,Titulo Universitario ,Especializacion,Entre 500.001 a 800.000,Cajero,TORO,CONSUME,ESTADOS,PALO,7
+CC23,0,3,17,Masculino,Economia,1,0,Estrato 4,Maestria,Maestria,Entre 100.000 a 300.000,Velero,TOPO,CONSTAR,ESTADOS,PAPÁ,2
+CC24,0,2,16,Masculino,Administracion,1,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Torero,Toga,CONSTAR,ESTIRAR,PASO,4
+CC25,0,3,17,Masculino,Economia,1,0,Estrato 3,Titulo Universitario ,Bachillerato,Entre 500.001 a 800.000,Aguero ,Toro,Consejo ,Estamos,Pala,6
+CC26,0,4,16,Femenino,Contabilidad,1,0,Estrato 4,Maestria,Bachillerato,Menor a 99.999,Dinero ,Tono,Consumo ,Estudio ,Palo,8
+CC27,0,2,16,Femenino,Finanzas,1,0,Estrato 4,Especializacion,Titulo Universitario ,Entre 100.000 a 300.000,Esfero ,Todo,Consume ,estados,Papa ,7
+CC28,0,3,17,Femenino,Finanzas,1,0,Estrato 3,Especializacion,Bachillerato,Entre 100.000 a 300.000,Cajero,TORO,CONSTAR,ESTADIA,PALA,1
+CC29,0,4,19,Femenino,Economia,8,1,Estrato 4,Tecnico o Tecnologo ,Bachillerato,Entre 100.000 a 300.000,Esfero ,Toro,Constar,Estudio ,Pala,0
+CC30,0,3,17,Femenino,Administracion,1,0,Estrato 5,Especializacion,Especializacion,Entre 100.000 a 300.000,Mesero ,Toca,Consejo ,Estirar,Pasa ,5
+CC31,0,2,17,Masculino,Contabilidad,1,0,Estrato 3,Bachillerato,Titulo Universitario ,Entre 100.000 a 300.000,Cajero,Todo,Consejo ,Estamos ,PAIS,5
+CC32,0,2,16,Masculino,Administracion,1,0,Estrato 3,Bachillerato,Bachillerato,Menor a 99.999,Esfero ,Todo,Contraseña ,Estatua,Paro ,3
+CC33,0,1,23,Femenino,Economia,8,1,Estrato 1,Bachillerato,Bachillerato,Menor a 99.999,Esfero ,Todo,CONSTAR,ESTADOS,PAPA,0
+CC34,0,1,18,Femenino,Economia,2,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Menor a 99.999,Entero,Todo,Consejo,Estadio,Paso,1
+CC35,0,2,16,Masculino,Contabilidad,1,0,Estrato 3,Bachillerato,Tecnico o Tecnologo ,Menor a 99.999,Dinero,Toro,Consiga,Estudia,Pala,7
+CC36,0,1,17,Masculino,Administracion,1,0,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,Esfero ,Todo,CONSEJO,ESTATAL,PALO,6
+CC37,0,4,16,Femenino,Finanzas,1,0,Estrato 4,Especializacion,Maestria,Entre 100.000 a 300.000,Dinero ,Toro,Consigo,Estudia ,Paro ,4
+CC38,0,4,21,Femenino,Administracion,10,1,Estrato 5,Bachillerato,Especializacion,Entre 500.001 a 800.000,Cajero,Tose,CONSIGO,ESTAFAR,PAGO,0
+CC39,0,2,20,Femenino,Administracion,8,1,Estrato 4,Especializacion,Titulo Universitario ,Menor a 99.999,hetero,Toro,consejo,estatua,Para ,8
+CC40,0,3,18,Masculino,Administracion,7,1,Estrato 4,Bachillerato,Tecnico o Tecnologo ,Entre 500.001 a 800.000,Esfero ,Tope,CONSEJO,ESTATUA,PALA,0
+CC41,0,3,16,Femenino,Contabilidad,1,0,Estrato 2,Tecnico o Tecnologo ,Titulo Universitario ,Entre 300.001 a 500.000,Esfero ,toro,consejo,estreno,pala,6
+CC42,0,3,22,Femenino,Administracion,7,1,Estrato 6,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Tetero,Todo,Consola ,Estado ,Papa ,0
+CC43,0,2,20,Femenino,Economia,7,1,Estrato 3,Especializacion,Tecnico o Tecnologo ,Entre 100.000 a 300.000,Dinero,Todo,Constan,Estatua,Paso,3
+CC44,0,2,17,Femenino,Contabilidad,1,0,Estrato 1,Especializacion,Especializacion,Menor a 99.999,Esfero ,Todo,consejo,estrofa,para,3
+CC45,0,3,20,Femenino,Administracion,9,1,Estrato 6,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,Llavero,Todo,CONSIGO,ESTATUA,PALO,0
+CC46,0,4,21,Masculino,Administracion,10,1,Estrato 6,Maestria,Titulo Universitario ,Entre 800.001 a 1.000.000,Ropero,Topo,Consejo,Estirar,Papá,0
+CC47,0,3,24,Masculino,Economia,8,1,Estrato 6,Maestria,Titulo Universitario ,Mayor a 1.300.001,Esfero ,Tope,CONSEJO,ESTUDIO,PAPÁ,2
+CC48,0,2,18,Masculino,Economia,1,0,Estrato 3,Bachillerato,Titulo Universitario ,Entre 100.000 a 300.000,Salero ,Toro,Consola,Estable,Palo,9
+IP1,1,2,18,Masculino,Economia,2,0,Estrato 4,Tecnico o Tecnologo ,Titulo Universitario ,Entre 300.001 a 500.000,Dinero,Toro,Consigo,Estados,Papa,6
+IP2,1,1,23,Masculino,Economia,10,1,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 500.001 a 800.000,Esfero ,Todo,consola,estufa,papa,1
+IP3,1,3,17,Femenino,Administracion,2,0,Estrato 2,Titulo Universitario ,Tecnico o Tecnologo ,Entre 300.001 a 500.000,obrero,toro,consejo,estatua,pato,2
+IP4,1,1,24,Masculino,Administracion,8,1,Estrato 6,Bachillerato,Titulo Universitario ,Entre 800.001 a 1.000.000,Batero ,Todo,Consejo,Estudio,Pala,0
+IP5,1,2,22,Femenino,Administracion,8,1,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Esfero ,TONO,CONSEJO,ESTADIO,PATO,0
+IP6,1,4,18,Femenino,Economia,3,0,Estrato 3,Bachillerato,Especializacion,Entre 100.000 a 300.000,Cajero,Todo,Consola,Estadio,Pala,4
+IP7,1,4,21,Femenino,Administracion,9,1,Estrato 3,Titulo Universitario ,Maestria,Mayor a 1.300.001,DINERO,Todo,consta,ESTADIO,Papa,3
+IP8,1,4,18,Masculino,Administracion,2,0,Estrato 4,Doctorado,Especializacion,Entre 500.001 a 800.000,Torero,Todo,CONSTAR ,ESTOICO,PAPA,2
+IP9,1,3,18,Femenino,Administracion,1,0,Estrato 3,Especializacion,Especializacion,Entre 300.001 a 500.000,Velero,Todo,Constar,Estadio,Pais,3
+IP10,1,2,24,Femenino,Economia,9,1,Estrato 6,Titulo Universitario ,Tecnico o Tecnologo ,Entre 500.001 a 800.000,Esfero ,TOCA,CONSEJO,ESTATUA,PAPA,3
+IP11,1,2,23,Masculino,Economia,8,1,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,Todero,Toro,Consola,Esteril,Papa,2
+IP12,1,2,20,Masculino,Economia,8,1,Estrato 4,Titulo Universitario ,Tecnico o Tecnologo ,Entre 500.001 a 800.000,Espero ,Topo ,Consumo,Estrato,Papa ,5
+IP13,1,3,20,Femenino,Economia,8,1,Estrato 6,Doctorado,Maestria,Entre 300.001 a 500.000,Cajero,Toro ,Consejo,Estable,Pais,9
+IP14,1,0,19,Masculino,Administracion,3,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Menor a 99.999,Ropero,Tono,Consejo,Estadio,Pala,3
+IP15,1,2,21,Femenino,Administracion,8,1,Estrato 6,Maestria,Especializacion,Entre 500.001 a 800.000,Espero,Todo,Consejo ,Estadía ,Papa,4
+IP16,1,3,21,Masculino,Economia,8,1,Estrato 5,Especializacion,Especializacion,Entre 1.000.001 a 1.300.000,Esfero ,TORO,CONSUMO,ESTATUA,PALO,3
+IP17,1,3,17,Masculino,Administracion,1,0,Estrato 4,Especializacion,Titulo Universitario ,Entre 300.001 a 500.000,Dinero,Todo,consumo,estados,pato,1
+IP18,1,4,17,Femenino,Administracion,1,0,Estrato 6,Maestria,Especializacion,Mayor a 1.300.001,Babero,Tony,Constan ,Estilos ,Papa,6
+IP19,1,3,17,Masculino,Administracion,1,0,Estrato 6,Especializacion,Titulo Universitario ,Entre 800.001 a 1.000.000,Esfero ,TORO,CONSUMO,ESTATUA,PALO,5
+IP20,1,3,24,Masculino,Economia,10,1,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 800.001 a 1.000.000,Cajero,Todo,Constan,Estacion ,Pala,7
+IP21,1,0,17,Masculino,Economia,1,0,Estrato 6,Maestria,Maestria,Entre 300.001 a 500.000,TETERO,Tote,CONSTAR,ESTRIAS ,Papa,8
+IP22,1,3,17,Masculino,Contabilidad,1,0,Estrato 3,Maestria,Especializacion,Entre 500.001 a 800.000,Ligero,Toma,Consejo,Estuche,Pato,7
+IP23,1,2,17,Femenino,Contabilidad,1,0,Estrato 2,Tecnico o Tecnologo ,Titulo Universitario ,Menor a 99.999,Mesero ,Toma ,Consola ,Estuche,Para ,1
+IP24,1,3,20,Masculino,Administracion,7,1,Estrato 6,Maestria,Especializacion,Entre 500.001 a 800.000,Batero ,Todo,Consejo,Estudio,Pala,5
+IP25,1,4,17,Femenino,Economia,1,0,Estrato 5,Titulo Universitario ,Especializacion,Mayor a 1.300.001,MULERO,Todo,CONSEJO,Estudio,PATA,2
+IP26,1,1,18,Masculino,Administracion,1,0,Estrato 3,Tecnico o Tecnologo ,Especializacion,Entre 300.001 a 500.000,Esfero ,TOMA,CONSEJO,ESTUDIAR ,Pais,0
+IP27,1,4,18,Femenino,Administracion,1,0,Estrato 6,Doctorado,Especializacion,Entre 500.001 a 800.000,AGUERO,TORO,CONSIGA,Estudio,PALA,0
+IP28,1,2,18,Masculino,Finanzas,1,0,Estrato 4,Maestria,Titulo Universitario ,Entre 800.001 a 1.000.000,Dinero,Todo,consumo,estados,pato,6
+IP29,1,4,22,Masculino,Finanzas,9,1,Estrato 2,Doctorado,Maestria,Mayor a 1.300.001,AGUERO,TORO,CONSIGA,Estudio,PALA,5
+IP30,1,1,20,Masculino,Administracion,8,1,Estrato 4,Maestria,Maestria,Entre 300.001 a 500.000,Tetero,toro,constar,Estudio,pala,3
+IP31,1,3,17,Masculino,Economia,1,0,Estrato 1,Bachillerato,Tecnico o Tecnologo ,Menor a 99.999,Minero,Toro,Consede,Estados,Paso,6
+IP32,1,1,18,Femenino,Economia,3,0,Estrato 4,Especializacion,Especializacion,Entre 500.001 a 800.000,Vocero,Todo,Consejo,Estatua ,Palo,2
+IP33,1,3,20,Masculino,Economia,8,1,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,Dinero,Todo,consumo,estados,pato,0
+IP34,1,3,21,Masculino,Economia,9,1,Estrato 3,Titulo Universitario ,Bachillerato,Entre 300.001 a 500.000,Esfero ,TORO,CONSTAR,ESTIMAR,PALA,1
+IP35,1,0,18,Femenino,Administracion,1,0,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,Numero,Toga,CONSEJO,ESTANTE,PASO,0
+IP36,1,2,20,Femenino,Economia,8,1,Estrato 4,Especializacion,Titulo Universitario ,Entre 300.001 a 500.000,Esfero ,TOMA,CONSEJO,ESTIRAR,PALA,0
+IP37,1,1,19,Femenino,Economia,3,0,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,MULERO,Todo,CONSEJO,Estudio,PATA,0
+IP38,1,1,23,Femenino,Administracion,10,1,Estrato 3,Bachillerato,Bachillerato,Entre 300.001 a 500.000,DINERO,Todo,consta,ESTADIO,Papa,9
+IP39,1,4,20,Masculino,Finanzas,8,1,Estrato 3,Maestria,Titulo Universitario ,Entre 800.001 a 1.000.000,Niñero,Todo,CONSOLA,Estudio,PATO,6
+IP40,1,2,17,Femenino,Administracion,1,0,Estrato 3,Especializacion,Especializacion,Entre 100.000 a 300.000,Torero,Todo,CONSEJO,ESTIMAR,PASE,5
+IP41,1,3,18,Femenino,Contabilidad,1,0,Estrato 3,Titulo Universitario ,Titulo Universitario ,Menor a 99.999,Esfero ,Todo,Consigo ,Estatua ,Papa,2
+IP42,1,1,23,Masculino,Administracion,9,1,Estrato 6,Titulo Universitario ,Titulo Universitario ,Entre 500.001 a 800.000,Babero,Tony,Constan ,Estilos ,Papa,0
+IP43,1,3,22,Masculino,Administracion,8,1,Estrato 4,Titulo Universitario ,Tecnico o Tecnologo ,Entre 300.001 a 500.000,Esfero ,toma,consejo,estrato,pato,4
+IP44,1,3,21,Masculino,Administracion,8,1,Estrato 3,Bachillerato,Tecnico o Tecnologo ,Entre 500.001 a 800.000,Cajero,TORO,CONSTAR,ESTADIO,PALO,3
+IP45,1,3,22,Femenino,Administracion,8,1,Estrato 5,Especializacion,Especializacion,Entre 800.001 a 1.000.000,febrero,topo,consejo,estilos,papa,1
+IP46,1,3,15,Masculino,Administracion,1,0,Estrato 3,Tecnico o Tecnologo ,Bachillerato,Entre 100.000 a 300.000,Llanero,TORO,CONSEJO,ESTATUS,PAPA,0
+IP47,1,2,18,Masculino,Economia,1,0,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,Velero,Toma,Consigo,Estilos,Pare,5
+IP48,1,3,21,Masculino,Administracion,9,1,Estrato 3,Especializacion,Tecnico o Tecnologo ,Entre 100.000 a 300.000,DINERO,Todo,CONSEJO,Estudio,PAPA,2

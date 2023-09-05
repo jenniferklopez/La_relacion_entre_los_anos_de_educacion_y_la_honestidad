@@ -1,0 +1,90 @@
+Subject,succesfull,age,gender,career,semester,last_semester,social,dad_career,mom_career,earns,Treatment,Answer_agree_driver_sanction,The_phrase_you_look_prettier_when_you_are_quiet_means_to_you,why_did_you_decide_to_study_the_career_you_are_studying?
+CC8,2,19,Femenino,Economia,7,1,Estrato 4,Maestria,Especializacion,Menor a 99.999,0,6,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+"CC9,2,21,Masculino,Economia,8,1,Estrato 3,Titulo Universitario ,Bachillerato,Entre 100.000 a 300.000,0,3,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+CC10,2,18,Femenino,Economia,1,0,Estrato 5,Maestria,Maestria,Entre 100.000 a 300.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+CC11,2,23,Masculino,Economia,8,1,Estrato 2,Titulo Universitario ,Tecnico o Tecnologo ,Entre 100.000 a 300.000,0,3,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+"CC12,1,21,Femenino,Administracion,10,1,Estrato 2,Especializacion,Titulo Universitario ,Menor a 99.999,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+CC13,3,20,Femenino,Administracion,8,1,Estrato 6,Maestria,Especializacion,Mayor a 1.300.001,0,4,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+CC14,3,17,Femenino,Administracion,2,0,Estrato 5,Especializacion,Titulo Universitario ,Entre 100.000 a 300.000,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+CC15,3,19,Femenino,Administracion,7,1,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 500.001 a 800.000,0,10,Que nadie se entere de las cosas que hago,Oferta en el mercado laboral
+CC16,2,22,Masculino,Economia,10,1,Estrato 3,Bachillerato,Bachillerato,Menor a 99.999,0,2,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+CC17,2,17,Masculino,Administracion,1,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 800.001 a 1.000.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+CC18,4,17,Femenino,Administracion,1,0,Estrato 5,Especializacion,Titulo Universitario ,Entre 300.001 a 500.000,0,1,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+"CC19,4,16,Femenino,Administracion,1,0,Estrato 3,Especializacion,Maestria,Entre 300.001 a 500.000,0,3,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+CC20,4,17,Masculino,Administracion,1,0,Estrato 4,Titulo Universitario ,Maestria,Entre 500.001 a 800.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+CC21,4,18,Femenino,Contabilidad,1,0,Estrato 3,Bachillerato,Bachillerato,Entre 300.001 a 500.000,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+CC22,1,18,Femenino,Administracion,1,0,Estrato 5,Titulo Universitario ,Especializacion,Entre 500.001 a 800.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+"CC23,3,17,Masculino,Economia,1,0,Estrato 4,Maestria,Maestria,Entre 100.000 a 300.000,0,1,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+CC24,2,16,Masculino,Administracion,1,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,0,0,Que nadie se entere de las cosas que hago,Se destaca en la materia
+CC25,3,17,Masculino,Economia,1,0,Estrato 3,Titulo Universitario ,Bachillerato,Entre 500.001 a 800.000,0,2,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+CC26,4,16,Femenino,Contabilidad,1,0,Estrato 4,Maestria,Bachillerato,Menor a 99.999,0,2,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+CC27,2,16,Femenino,Finanzas,1,0,Estrato 4,Especializacion,Titulo Universitario ,Entre 100.000 a 300.000,0,3,Que hay ciertas cosas de las que la gente no deberia enterarse,Se destaca en la materia
+CC28,3,17,Femenino,Finanzas,1,0,Estrato 3,Especializacion,Bachillerato,Entre 100.000 a 300.000,0,3,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+"CC29,4,19,Femenino,Economia,8,1,Estrato 4,Tecnico o Tecnologo ,Bachillerato,Entre 100.000 a 300.000,0,7,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+CC30,3,17,Femenino,Administracion,1,0,Estrato 5,Especializacion,Especializacion,Entre 100.000 a 300.000,0,10,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+CC31,2,17,Masculino,Contabilidad,1,0,Estrato 3,Bachillerato,Titulo Universitario ,Entre 100.000 a 300.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+CC32,2,16,Masculino,Administracion,1,0,Estrato 3,Bachillerato,Bachillerato,Menor a 99.999,0,8,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+"CC33,1,23,Femenino,Economia,8,1,Estrato 1,Bachillerato,Bachillerato,Menor a 99.999,0,0,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+"CC34,1,18,Femenino,Economia,2,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Menor a 99.999,0,3,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+CC35,2,16,Masculino,Contabilidad,1,0,Estrato 3,Bachillerato,Tecnico o Tecnologo ,Menor a 99.999,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+CC36,1,17,Masculino,Administracion,1,0,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+CC37,4,16,Femenino,Finanzas,1,0,Estrato 4,Especializacion,Maestria,Entre 100.000 a 300.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+CC38,4,21,Femenino,Administracion,10,1,Estrato 5,Bachillerato,Especializacion,Entre 500.001 a 800.000,0,10,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+CC39,2,20,Femenino,Administracion,8,1,Estrato 4,Especializacion,Titulo Universitario ,Menor a 99.999,0,1,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+"CC40,3,18,Masculino,Administracion,7,1,Estrato 4,Bachillerato,Tecnico o Tecnologo ,Entre 500.001 a 800.000,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+CC41,3,16,Femenino,Contabilidad,1,0,Estrato 2,Tecnico o Tecnologo ,Titulo Universitario ,Entre 300.001 a 500.000,0,0,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+CC42,3,22,Femenino,Administracion,7,1,Estrato 6,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+CC43,2,20,Femenino,Economia,7,1,Estrato 3,Especializacion,Tecnico o Tecnologo ,Entre 100.000 a 300.000,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Se destaca en la materia
+CC44,2,17,Femenino,Contabilidad,1,0,Estrato 1,Especializacion,Especializacion,Menor a 99.999,0,5,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+CC45,3,20,Femenino,Administracion,9,1,Estrato 6,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,0,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+"CC46,4,21,Masculino,Administracion,10,1,Estrato 6,Maestria,Titulo Universitario ,Entre 800.001 a 1.000.000,0,1,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+"CC47,3,24,Masculino,Economia,8,1,Estrato 6,Maestria,Titulo Universitario ,Mayor a 1.300.001,0,0,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+"CC48,2,18,Masculino,Economia,1,0,Estrato 3,Bachillerato,Titulo Universitario ,Entre 100.000 a 300.000,0,2,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+"IP1,2,18,Masculino,Economia,2,0,Estrato 4,Tecnico o Tecnologo ,Titulo Universitario ,Entre 300.001 a 500.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+IP2,1,23,Masculino,Economia,10,1,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 500.001 a 800.000,1,2,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+IP3,3,17,Femenino,Administracion,2,0,Estrato 2,Titulo Universitario ,Tecnico o Tecnologo ,Entre 300.001 a 500.000,1,6,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+IP4,1,24,Masculino,Administracion,8,1,Estrato 6,Bachillerato,Titulo Universitario ,Entre 800.001 a 1.000.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+IP5,2,22,Femenino,Administracion,8,1,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+"IP6,4,18,Femenino,Economia,3,0,Estrato 3,Bachillerato,Especializacion,Entre 100.000 a 300.000,1,1,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+"IP7,4,21,Femenino,Administracion,9,1,Estrato 3,Titulo Universitario ,Maestria,Mayor a 1.300.001,1,3,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+"IP8,4,18,Masculino,Administracion,2,0,Estrato 4,Doctorado,Especializacion,Entre 500.001 a 800.000,1,1,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+IP9,3,18,Femenino,Administracion,1,0,Estrato 3,Especializacion,Especializacion,Entre 300.001 a 500.000,1,0,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+"IP10,2,24,Femenino,Economia,9,1,Estrato 6,Titulo Universitario ,Tecnico o Tecnologo ,Entre 500.001 a 800.000,1,1,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+"IP11,2,23,Masculino,Economia,8,1,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+"IP12,2,20,Masculino,Economia,8,1,Estrato 4,Titulo Universitario ,Tecnico o Tecnologo ,Entre 500.001 a 800.000,1,0,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+IP13,3,20,Femenino,Economia,8,1,Estrato 6,Doctorado,Maestria,Entre 300.001 a 500.000,1,2,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+IP14,0,19,Masculino,Administracion,3,0,Estrato 4,Titulo Universitario ,Titulo Universitario ,Menor a 99.999,1,3,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+IP15,2,21,Femenino,Administracion,8,1,Estrato 6,Maestria,Especializacion,Entre 500.001 a 800.000,1,0,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+"IP16,3,21,Masculino,Economia,8,1,Estrato 5,Especializacion,Especializacion,Entre 1.000.001 a 1.300.000,1,5,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+IP17,3,17,Masculino,Administracion,1,0,Estrato 4,Especializacion,Titulo Universitario ,Entre 300.001 a 500.000,1,2,Que hay ciertas cosas de las que la gente no deberia enterarse,Se destaca en la materia
+IP18,4,17,Femenino,Administracion,1,0,Estrato 6,Maestria,Especializacion,Mayor a 1.300.001,1,0,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+IP19,3,17,Masculino,Administracion,1,0,Estrato 6,Especializacion,Titulo Universitario ,Entre 800.001 a 1.000.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Se destaca en la materia
+"IP20,3,24,Masculino,Economia,10,1,Estrato 4,Titulo Universitario ,Titulo Universitario ,Entre 800.001 a 1.000.000,1,2,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+IP21,0,17,Masculino,Economia,1,0,Estrato 6,Maestria,Maestria,Entre 300.001 a 500.000,1,1,Que hay ciertas cosas de las que la gente no deberia enterarse,Se destaca en la materia
+IP22,3,17,Masculino,Contabilidad,1,0,Estrato 3,Maestria,Especializacion,Entre 500.001 a 800.000,1,2,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+IP23,2,17,Femenino,Contabilidad,1,0,Estrato 2,Tecnico o Tecnologo ,Titulo Universitario ,Menor a 99.999,1,2,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+IP24,3,20,Masculino,Administracion,7,1,Estrato 6,Maestria,Especializacion,Entre 500.001 a 800.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Se destaca en la materia
+IP25,4,17,Femenino,Economia,1,0,Estrato 5,Titulo Universitario ,Especializacion,Mayor a 1.300.001,1,0,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+IP26,1,18,Masculino,Administracion,1,0,Estrato 3,Tecnico o Tecnologo ,Especializacion,Entre 300.001 a 500.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+IP27,4,18,Femenino,Administracion,1,0,Estrato 6,Doctorado,Especializacion,Entre 500.001 a 800.000,1,2,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+IP28,2,18,Masculino,Finanzas,1,0,Estrato 4,Maestria,Titulo Universitario ,Entre 800.001 a 1.000.000,1,2,Que a veces la gente habla de mas y queda mal ante los otros,Se destaca en la materia
+IP29,4,22,Masculino,Finanzas,9,1,Estrato 2,Doctorado,Maestria,Mayor a 1.300.001,1,0,Que nadie se entere de las cosas que hago,Se destaca en la materia
+IP30,1,20,Masculino,Administracion,8,1,Estrato 4,Maestria,Maestria,Entre 300.001 a 500.000,1,2,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+"IP31,3,17,Masculino,Economia,1,0,Estrato 1,Bachillerato,Tecnico o Tecnologo ,Menor a 99.999,1,0,Que nadie se entere de las cosas que hago,""Interes social, politico y economico"""
+"IP32,1,18,Femenino,Economia,3,0,Estrato 4,Especializacion,Especializacion,Entre 500.001 a 800.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,""Interes social, politico y economico"""
+IP33,3,20,Masculino,Economia,8,1,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,1,3,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+IP34,3,21,Masculino,Economia,9,1,Estrato 3,Titulo Universitario ,Bachillerato,Entre 300.001 a 500.000,1,4,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+IP35,0,18,Femenino,Administracion,1,0,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+"IP36,2,20,Femenino,Economia,8,1,Estrato 4,Especializacion,Titulo Universitario ,Entre 300.001 a 500.000,1,0,Que a veces la gente habla de mas y queda mal ante los otros,""Interes social, politico y economico"""
+IP37,1,19,Femenino,Economia,3,0,Estrato 3,Titulo Universitario ,Titulo Universitario ,Entre 100.000 a 300.000,1,4,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+IP38,1,23,Femenino,Administracion,10,1,Estrato 3,Bachillerato,Bachillerato,Entre 300.001 a 500.000,1,5,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+IP39,4,20,Masculino,Finanzas,8,1,Estrato 3,Maestria,Titulo Universitario ,Entre 800.001 a 1.000.000,1,7,Que nadie se entere de las cosas que hago,Se destaca en la materia
+IP40,2,17,Femenino,Administracion,1,0,Estrato 3,Especializacion,Especializacion,Entre 100.000 a 300.000,1,4,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+IP41,3,18,Femenino,Contabilidad,1,0,Estrato 3,Titulo Universitario ,Titulo Universitario ,Menor a 99.999,1,9,Que a veces la gente habla de mas y queda mal ante los otros,Le gusta la carrera
+IP42,1,23,Masculino,Administracion,9,1,Estrato 6,Titulo Universitario ,Titulo Universitario ,Entre 500.001 a 800.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+IP43,3,22,Masculino,Administracion,8,1,Estrato 4,Titulo Universitario ,Tecnico o Tecnologo ,Entre 300.001 a 500.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
+IP44,3,21,Masculino,Administracion,8,1,Estrato 3,Bachillerato,Tecnico o Tecnologo ,Entre 500.001 a 800.000,1,3,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+IP45,3,22,Femenino,Administracion,8,1,Estrato 5,Especializacion,Especializacion,Entre 800.001 a 1.000.000,1,3,Que a veces la gente habla de mas y queda mal ante los otros,Oferta en el mercado laboral
+IP46,3,15,Masculino,Administracion,1,0,Estrato 3,Tecnico o Tecnologo ,Bachillerato,Entre 100.000 a 300.000,1,0,Que hay ciertas cosas de las que la gente no deberia enterarse,Le gusta la carrera
+"IP47,2,18,Masculino,Economia,1,0,Estrato 4,Maestria,Titulo Universitario ,Entre 300.001 a 500.000,1,0,Que nadie se entere de las cosas que hago,""Interes social, politico y economico"""
+IP48,3,21,Masculino,Administracion,9,1,Estrato 3,Especializacion,Tecnico o Tecnologo ,Entre 100.000 a 300.000,1,4,Que hay ciertas cosas de las que la gente no deberia enterarse,Oferta en el mercado laboral
